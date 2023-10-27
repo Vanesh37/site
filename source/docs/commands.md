@@ -191,4 +191,4 @@ Displays draft posts (stored in the `source/_drafts` folder).
 $ hexo --cwd /path/to/cwd
 ```
 
-Customizes the path of current working directory.
+Customizes the path of the current working directory.
